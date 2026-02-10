@@ -1,2 +1,3 @@
 # SE498
-Jalen Myers
+Author: Jalen Myers
+email: jalmyers@chapman.edu
